@@ -1,0 +1,22 @@
+nav{
+  height:70px;
+  background-color: #bb1090;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.image1{
+  margin:35px;
+  
+}
+.traveldetails
+{
+  display:flex;
+}
+.description
+{
+   width:500px;
+   overflow-wrap: break-word;
+  word-wrap: break-word;
+   word-break: break-word;
+}
